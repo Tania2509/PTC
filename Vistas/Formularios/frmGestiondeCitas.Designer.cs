@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmGestiondeCitas));
             this.panel1 = new System.Windows.Forms.Panel();
             this.cbCorreo = new System.Windows.Forms.ComboBox();
             this.cbApellido = new System.Windows.Forms.ComboBox();
@@ -61,7 +62,7 @@
             this.panel1.Controls.Add(this.lblNombre);
             this.panel1.Controls.Add(this.tbxRazonCita);
             this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.panel1.Location = new System.Drawing.Point(23, 3);
+            this.panel1.Location = new System.Drawing.Point(44, 12);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(554, 360);
             this.panel1.TabIndex = 3;
@@ -70,7 +71,7 @@
             // 
             this.cbCorreo.FormattingEnabled = true;
             this.cbCorreo.Location = new System.Drawing.Point(38, 271);
-            this.cbCorreo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbCorreo.Margin = new System.Windows.Forms.Padding(2);
             this.cbCorreo.Name = "cbCorreo";
             this.cbCorreo.Size = new System.Drawing.Size(303, 28);
             this.cbCorreo.TabIndex = 17;
@@ -79,7 +80,7 @@
             // 
             this.cbApellido.FormattingEnabled = true;
             this.cbApellido.Location = new System.Drawing.Point(38, 131);
-            this.cbApellido.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbApellido.Margin = new System.Windows.Forms.Padding(2);
             this.cbApellido.Name = "cbApellido";
             this.cbApellido.Size = new System.Drawing.Size(303, 28);
             this.cbApellido.TabIndex = 16;
@@ -88,7 +89,7 @@
             // 
             this.cbNombre.FormattingEnabled = true;
             this.cbNombre.Location = new System.Drawing.Point(38, 51);
-            this.cbNombre.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cbNombre.Margin = new System.Windows.Forms.Padding(2);
             this.cbNombre.Name = "cbNombre";
             this.cbNombre.Size = new System.Drawing.Size(303, 28);
             this.cbNombre.TabIndex = 15;
@@ -171,9 +172,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.BackgroundImage = global::Vistas.Properties.Resources.Rectangle_49;
+            this.ClientSize = new System.Drawing.Size(707, 408);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmGestiondeCitas";
             this.Text = "frmGestiondeCitas";
             this.Load += new System.EventHandler(this.frmGestiondeCitas_Load);

@@ -39,7 +39,7 @@ namespace Vistas.Formularios
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             Cita cita = new Cita();
-            int id = int.Parse(dgvVerCitas.CurrentRow.Cells[0].Value.ToString());
+            int id = int.Parse(dgvVerCitas.CurrentRow.Cells[0].Value.ToString()); 
             if (cita.eliminarCita(id) == true)
             {
                 MessageBox.Show("Registro eliminado correctamente", "Exito");

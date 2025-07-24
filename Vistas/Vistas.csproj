@@ -200,5 +200,8 @@
   <ItemGroup>
     <None Include="Resources\Rectangle 49.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adobe Express - file %281%29 1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

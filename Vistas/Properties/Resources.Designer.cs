@@ -63,6 +63,16 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Adobe_Express___file__1__1 {
+            get {
+                object obj = ResourceManager.GetObject("Adobe Express - file (1) 1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Captura_de_pantalla_2025_07_19_214654 {
             get {
                 object obj = ResourceManager.GetObject("Captura de pantalla 2025-07-19 214654", resourceCulture);
