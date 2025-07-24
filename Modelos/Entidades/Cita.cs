@@ -41,6 +41,7 @@ namespace Modelos.Entidades
 
             SqlCommand cmd = new SqlCommand(comando, con);
 
+
             cmd.Parameters.AddWithValue("@razonCita", razonCita);
             cmd.Parameters.AddWithValue("@fechaHoraCita", fechaHoraCita);
             cmd.Parameters.AddWithValue("@id_Paciente", id_Paciente);

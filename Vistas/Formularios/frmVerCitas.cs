@@ -27,13 +27,28 @@ namespace Vistas.Formularios
 
         private void frmVerCitas_Load(object sender, EventArgs e)
         {
-
+            MostrarCitas();
         }
 
         public void MostrarCitas()
         {
             dgvVerCitas.DataSource = null;
-            dgvVerCitas.DataSource = Usuario.CargarUsuarios("select *from MostrarTrabajadores");
+            dgvVerCitas.DataSource = Cita.CargarCitas("select *From DatosCita");
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            Cita cita = new Cita();
+            int id = int.Parse(dgvVerCitas.CurrentRow.Cells[0].Value.ToString());
+            if (cita.eliminarCita(id) == true)
+            {
+                MessageBox.Show("Registro eliminado correctamente", "Exito");
+                MostrarCitas();
+            }
+            else
+            {
+                MessageBox.Show("Se produjo un error", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
     }
 }

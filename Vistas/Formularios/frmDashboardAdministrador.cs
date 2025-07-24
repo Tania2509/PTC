@@ -17,6 +17,13 @@ namespace Vistas.Formularios
             InitializeComponent();
         }
 
+        public frmDashboardAdministrador(frmLogin formpadre)
+        {
+            InitializeComponent();
+            frmLogin1 = formpadre;
+        }
+
+        private frmLogin frmLogin1;
         private void frmDashboardAdministrador_Load(object sender, EventArgs e)
         {
             

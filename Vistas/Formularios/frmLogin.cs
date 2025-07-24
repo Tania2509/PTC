@@ -17,24 +17,34 @@ namespace Vistas.Formularios
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
+            if (txtContraseña.Text == "1234" && txtCorreo.Text == "Administrador")
+            {
+                MessageBox.Show("¡Inicio de sesión exitoso!");
+                frmDashboardAdministrador ventana = new frmDashboardAdministrador(this);
+                this.Hide();
+                ventana.Show();
+            }
+            else if (txtContraseña.Text == "12345" && txtCorreo.Text == "Asistente")
+            {
+                MessageBox.Show("¡Inicio de sesión exitoso!");
+                frmDashboardAsistente ventana = new frmDashboardAsistente(this);
+                this.Hide();
+                ventana.Show();
+            }
+            else if (txtContraseña.Text == "1200" && txtCorreo.Text == "Doctor")
+            {
+                MessageBox.Show("¡Inicio de sesión exitoso!");
+                frmDashboardDoctor ventana = new frmDashboardDoctor(this);
+                this.Hide();
+                ventana.Show();
+            }
 
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
+            else
+            {
+                MessageBox.Show("Correo o contraseña incorrectos.");
+            }
         }
     }
 }

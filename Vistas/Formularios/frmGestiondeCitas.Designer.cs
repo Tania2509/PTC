@@ -61,62 +61,62 @@
             this.panel1.Controls.Add(this.lblNombre);
             this.panel1.Controls.Add(this.tbxRazonCita);
             this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.panel1.Location = new System.Drawing.Point(31, 4);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Location = new System.Drawing.Point(23, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(739, 443);
+            this.panel1.Size = new System.Drawing.Size(554, 360);
             this.panel1.TabIndex = 3;
             // 
             // cbCorreo
             // 
             this.cbCorreo.FormattingEnabled = true;
-            this.cbCorreo.Location = new System.Drawing.Point(50, 334);
+            this.cbCorreo.Location = new System.Drawing.Point(38, 271);
+            this.cbCorreo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbCorreo.Name = "cbCorreo";
-            this.cbCorreo.Size = new System.Drawing.Size(403, 33);
+            this.cbCorreo.Size = new System.Drawing.Size(303, 28);
             this.cbCorreo.TabIndex = 17;
             // 
             // cbApellido
             // 
             this.cbApellido.FormattingEnabled = true;
-            this.cbApellido.Location = new System.Drawing.Point(50, 161);
+            this.cbApellido.Location = new System.Drawing.Point(38, 131);
+            this.cbApellido.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbApellido.Name = "cbApellido";
-            this.cbApellido.Size = new System.Drawing.Size(403, 33);
+            this.cbApellido.Size = new System.Drawing.Size(303, 28);
             this.cbApellido.TabIndex = 16;
             // 
             // cbNombre
             // 
             this.cbNombre.FormattingEnabled = true;
-            this.cbNombre.Location = new System.Drawing.Point(50, 63);
+            this.cbNombre.Location = new System.Drawing.Point(38, 51);
+            this.cbNombre.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.cbNombre.Name = "cbNombre";
-            this.cbNombre.Size = new System.Drawing.Size(403, 33);
+            this.cbNombre.Size = new System.Drawing.Size(303, 28);
             this.cbNombre.TabIndex = 15;
             // 
             // dtpFechaHora
             // 
+            this.dtpFechaHora.CustomFormat = "yyyy-MM-dd HH:mm";
             this.dtpFechaHora.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dtpFechaHora.Location = new System.Drawing.Point(50, 443);
-            this.dtpFechaHora.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpFechaHora.Location = new System.Drawing.Point(38, 360);
             this.dtpFechaHora.Name = "dtpFechaHora";
-            this.dtpFechaHora.Size = new System.Drawing.Size(403, 30);
+            this.dtpFechaHora.Size = new System.Drawing.Size(303, 26);
             this.dtpFechaHora.TabIndex = 14;
             // 
             // lblFecha
             // 
             this.lblFecha.AutoSize = true;
-            this.lblFecha.Location = new System.Drawing.Point(47, 399);
-            this.lblFecha.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblFecha.Location = new System.Drawing.Point(35, 324);
             this.lblFecha.Name = "lblFecha";
-            this.lblFecha.Size = new System.Drawing.Size(155, 25);
+            this.lblFecha.Size = new System.Drawing.Size(125, 20);
             this.lblFecha.TabIndex = 11;
             this.lblFecha.Text = "Fecha de la cita:";
             // 
             // lblCorreoElectronico
             // 
             this.lblCorreoElectronico.AutoSize = true;
-            this.lblCorreoElectronico.Location = new System.Drawing.Point(47, 309);
-            this.lblCorreoElectronico.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCorreoElectronico.Location = new System.Drawing.Point(35, 251);
             this.lblCorreoElectronico.Name = "lblCorreoElectronico";
-            this.lblCorreoElectronico.Size = new System.Drawing.Size(173, 25);
+            this.lblCorreoElectronico.Size = new System.Drawing.Size(140, 20);
             this.lblCorreoElectronico.TabIndex = 10;
             this.lblCorreoElectronico.Text = "Correo Electrónico";
             // 
@@ -124,10 +124,9 @@
             // 
             this.btnProgramarCita.BackColor = System.Drawing.Color.YellowGreen;
             this.btnProgramarCita.ForeColor = System.Drawing.Color.White;
-            this.btnProgramarCita.Location = new System.Drawing.Point(482, 505);
-            this.btnProgramarCita.Margin = new System.Windows.Forms.Padding(4);
+            this.btnProgramarCita.Location = new System.Drawing.Point(362, 410);
             this.btnProgramarCita.Name = "btnProgramarCita";
-            this.btnProgramarCita.Size = new System.Drawing.Size(200, 65);
+            this.btnProgramarCita.Size = new System.Drawing.Size(150, 53);
             this.btnProgramarCita.TabIndex = 9;
             this.btnProgramarCita.Text = "Programar Cita";
             this.btnProgramarCita.UseVisualStyleBackColor = false;
@@ -136,48 +135,45 @@
             // lblRazonCita
             // 
             this.lblRazonCita.AutoSize = true;
-            this.lblRazonCita.Location = new System.Drawing.Point(46, 208);
-            this.lblRazonCita.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblRazonCita.Location = new System.Drawing.Point(34, 169);
             this.lblRazonCita.Name = "lblRazonCita";
-            this.lblRazonCita.Size = new System.Drawing.Size(152, 25);
+            this.lblRazonCita.Size = new System.Drawing.Size(122, 20);
             this.lblRazonCita.TabIndex = 8;
             this.lblRazonCita.Text = "Motivo de la cita";
             // 
             // lblApellido
             // 
             this.lblApellido.AutoSize = true;
-            this.lblApellido.Location = new System.Drawing.Point(48, 117);
-            this.lblApellido.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblApellido.Location = new System.Drawing.Point(36, 95);
             this.lblApellido.Name = "lblApellido";
-            this.lblApellido.Size = new System.Drawing.Size(88, 25);
+            this.lblApellido.Size = new System.Drawing.Size(69, 20);
             this.lblApellido.TabIndex = 6;
             this.lblApellido.Text = "Apellido:";
             // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(48, 34);
-            this.lblNombre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNombre.Location = new System.Drawing.Point(36, 28);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(87, 25);
+            this.lblNombre.Size = new System.Drawing.Size(69, 20);
             this.lblNombre.TabIndex = 5;
             this.lblNombre.Text = "Nombre:";
             // 
             // tbxRazonCita
             // 
-            this.tbxRazonCita.Location = new System.Drawing.Point(50, 236);
-            this.tbxRazonCita.Margin = new System.Windows.Forms.Padding(4);
+            this.tbxRazonCita.Location = new System.Drawing.Point(38, 192);
             this.tbxRazonCita.Multiline = true;
             this.tbxRazonCita.Name = "tbxRazonCita";
-            this.tbxRazonCita.Size = new System.Drawing.Size(403, 30);
+            this.tbxRazonCita.Size = new System.Drawing.Size(303, 25);
             this.tbxRazonCita.TabIndex = 3;
             // 
             // frmGestiondeCitas
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "frmGestiondeCitas";
             this.Text = "frmGestiondeCitas";
             this.Load += new System.EventHandler(this.frmGestiondeCitas_Load);

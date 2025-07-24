@@ -22,6 +22,14 @@ namespace Vistas.Formularios
 
         }
 
+        public frmDashboardDoctor(frmLogin formpadre)
+        {
+            InitializeComponent();
+            frmLogin1 = formpadre;
+        }
+
+        private frmLogin frmLogin1;
+
         #region
 
         private Form activarForm = null;

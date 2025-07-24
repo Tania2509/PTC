@@ -43,6 +43,13 @@ namespace Vistas.Formularios
 
         #endregion
 
+        public frmDashboardAsistente(frmLogin formpadre)
+        {
+            InitializeComponent();
+            frmLogin1 = formpadre;
+        }
+
+        private frmLogin frmLogin1;
 
         private void btnCitas_Click(object sender, EventArgs e)
         {
