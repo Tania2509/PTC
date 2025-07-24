@@ -1,0 +1,205 @@
+﻿namespace Vistas.Formularios
+{
+    partial class frmGestiondeCitas
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.cbCorreo = new System.Windows.Forms.ComboBox();
+            this.cbApellido = new System.Windows.Forms.ComboBox();
+            this.cbNombre = new System.Windows.Forms.ComboBox();
+            this.dtpFechaHora = new System.Windows.Forms.DateTimePicker();
+            this.lblFecha = new System.Windows.Forms.Label();
+            this.lblCorreoElectronico = new System.Windows.Forms.Label();
+            this.btnProgramarCita = new System.Windows.Forms.Button();
+            this.lblRazonCita = new System.Windows.Forms.Label();
+            this.lblApellido = new System.Windows.Forms.Label();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.tbxRazonCita = new System.Windows.Forms.TextBox();
+            this.panel1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.AutoScroll = true;
+            this.panel1.AutoScrollMargin = new System.Drawing.Size(5, 3);
+            this.panel1.AutoScrollMinSize = new System.Drawing.Size(300, 600);
+            this.panel1.BackColor = System.Drawing.Color.Silver;
+            this.panel1.Controls.Add(this.cbCorreo);
+            this.panel1.Controls.Add(this.cbApellido);
+            this.panel1.Controls.Add(this.cbNombre);
+            this.panel1.Controls.Add(this.dtpFechaHora);
+            this.panel1.Controls.Add(this.lblFecha);
+            this.panel1.Controls.Add(this.lblCorreoElectronico);
+            this.panel1.Controls.Add(this.btnProgramarCita);
+            this.panel1.Controls.Add(this.lblRazonCita);
+            this.panel1.Controls.Add(this.lblApellido);
+            this.panel1.Controls.Add(this.lblNombre);
+            this.panel1.Controls.Add(this.tbxRazonCita);
+            this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panel1.Location = new System.Drawing.Point(31, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(739, 443);
+            this.panel1.TabIndex = 3;
+            // 
+            // cbCorreo
+            // 
+            this.cbCorreo.FormattingEnabled = true;
+            this.cbCorreo.Location = new System.Drawing.Point(50, 334);
+            this.cbCorreo.Name = "cbCorreo";
+            this.cbCorreo.Size = new System.Drawing.Size(403, 33);
+            this.cbCorreo.TabIndex = 17;
+            // 
+            // cbApellido
+            // 
+            this.cbApellido.FormattingEnabled = true;
+            this.cbApellido.Location = new System.Drawing.Point(50, 161);
+            this.cbApellido.Name = "cbApellido";
+            this.cbApellido.Size = new System.Drawing.Size(403, 33);
+            this.cbApellido.TabIndex = 16;
+            // 
+            // cbNombre
+            // 
+            this.cbNombre.FormattingEnabled = true;
+            this.cbNombre.Location = new System.Drawing.Point(50, 63);
+            this.cbNombre.Name = "cbNombre";
+            this.cbNombre.Size = new System.Drawing.Size(403, 33);
+            this.cbNombre.TabIndex = 15;
+            // 
+            // dtpFechaHora
+            // 
+            this.dtpFechaHora.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpFechaHora.Location = new System.Drawing.Point(50, 443);
+            this.dtpFechaHora.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpFechaHora.Name = "dtpFechaHora";
+            this.dtpFechaHora.Size = new System.Drawing.Size(403, 30);
+            this.dtpFechaHora.TabIndex = 14;
+            // 
+            // lblFecha
+            // 
+            this.lblFecha.AutoSize = true;
+            this.lblFecha.Location = new System.Drawing.Point(47, 399);
+            this.lblFecha.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblFecha.Name = "lblFecha";
+            this.lblFecha.Size = new System.Drawing.Size(155, 25);
+            this.lblFecha.TabIndex = 11;
+            this.lblFecha.Text = "Fecha de la cita:";
+            // 
+            // lblCorreoElectronico
+            // 
+            this.lblCorreoElectronico.AutoSize = true;
+            this.lblCorreoElectronico.Location = new System.Drawing.Point(47, 309);
+            this.lblCorreoElectronico.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCorreoElectronico.Name = "lblCorreoElectronico";
+            this.lblCorreoElectronico.Size = new System.Drawing.Size(173, 25);
+            this.lblCorreoElectronico.TabIndex = 10;
+            this.lblCorreoElectronico.Text = "Correo Electrónico";
+            // 
+            // btnProgramarCita
+            // 
+            this.btnProgramarCita.BackColor = System.Drawing.Color.YellowGreen;
+            this.btnProgramarCita.ForeColor = System.Drawing.Color.White;
+            this.btnProgramarCita.Location = new System.Drawing.Point(482, 505);
+            this.btnProgramarCita.Margin = new System.Windows.Forms.Padding(4);
+            this.btnProgramarCita.Name = "btnProgramarCita";
+            this.btnProgramarCita.Size = new System.Drawing.Size(200, 65);
+            this.btnProgramarCita.TabIndex = 9;
+            this.btnProgramarCita.Text = "Programar Cita";
+            this.btnProgramarCita.UseVisualStyleBackColor = false;
+            this.btnProgramarCita.Click += new System.EventHandler(this.btnProgramarCita_Click);
+            // 
+            // lblRazonCita
+            // 
+            this.lblRazonCita.AutoSize = true;
+            this.lblRazonCita.Location = new System.Drawing.Point(46, 208);
+            this.lblRazonCita.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblRazonCita.Name = "lblRazonCita";
+            this.lblRazonCita.Size = new System.Drawing.Size(152, 25);
+            this.lblRazonCita.TabIndex = 8;
+            this.lblRazonCita.Text = "Motivo de la cita";
+            // 
+            // lblApellido
+            // 
+            this.lblApellido.AutoSize = true;
+            this.lblApellido.Location = new System.Drawing.Point(48, 117);
+            this.lblApellido.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblApellido.Name = "lblApellido";
+            this.lblApellido.Size = new System.Drawing.Size(88, 25);
+            this.lblApellido.TabIndex = 6;
+            this.lblApellido.Text = "Apellido:";
+            // 
+            // lblNombre
+            // 
+            this.lblNombre.AutoSize = true;
+            this.lblNombre.Location = new System.Drawing.Point(48, 34);
+            this.lblNombre.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNombre.Name = "lblNombre";
+            this.lblNombre.Size = new System.Drawing.Size(87, 25);
+            this.lblNombre.TabIndex = 5;
+            this.lblNombre.Text = "Nombre:";
+            // 
+            // tbxRazonCita
+            // 
+            this.tbxRazonCita.Location = new System.Drawing.Point(50, 236);
+            this.tbxRazonCita.Margin = new System.Windows.Forms.Padding(4);
+            this.tbxRazonCita.Multiline = true;
+            this.tbxRazonCita.Name = "tbxRazonCita";
+            this.tbxRazonCita.Size = new System.Drawing.Size(403, 30);
+            this.tbxRazonCita.TabIndex = 3;
+            // 
+            // frmGestiondeCitas
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.panel1);
+            this.Name = "frmGestiondeCitas";
+            this.Text = "frmGestiondeCitas";
+            this.Load += new System.EventHandler(this.frmGestiondeCitas_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.DateTimePicker dtpFechaHora;
+        private System.Windows.Forms.Label lblFecha;
+        private System.Windows.Forms.Label lblCorreoElectronico;
+        private System.Windows.Forms.Button btnProgramarCita;
+        private System.Windows.Forms.Label lblRazonCita;
+        private System.Windows.Forms.Label lblApellido;
+        private System.Windows.Forms.Label lblNombre;
+        private System.Windows.Forms.TextBox tbxRazonCita;
+        private System.Windows.Forms.ComboBox cbNombre;
+        private System.Windows.Forms.ComboBox cbApellido;
+        private System.Windows.Forms.ComboBox cbCorreo;
+    }
+}

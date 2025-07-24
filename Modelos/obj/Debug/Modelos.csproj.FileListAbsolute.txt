@@ -1,0 +1,18 @@
+C:\Users\jason\Downloads\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\bin\Debug\Modelos.dll
+C:\Users\jason\Downloads\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\bin\Debug\Modelos.pdb
+C:\Users\jason\Downloads\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\jason\Downloads\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jason\Downloads\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.dll
+C:\Users\jason\Downloads\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.pdb
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\bin\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\bin\Debug\Modelos.pdb
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Sistema de Clinica Dental\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.pdb
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Modelos\bin\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Modelos\bin\Debug\Modelos.pdb
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Sistema de Clinica Dental\Modelos\obj\Debug\Modelos.pdb

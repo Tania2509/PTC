@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\formularios\\frmgestiondecitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestiondecitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|c:\\users\\jrlop\\onedrive\\desktop\\sistema de clinica dental\\modelos\\entidades\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\formularios\\frmvercitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmvercitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\formularios\\frmvercitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmvercitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|c:\\users\\jrlop\\onedrive\\desktop\\sistema de clinica dental\\vistas\\formularios\\frmdashboardasistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardasistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|c:\\users\\jrlop\\onedrive\\desktop\\sistema de clinica dental\\vistas\\formularios\\frmdashboardasistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmdashboardasistente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\formularios\\frmvertrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmvertrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\formularios\\frmgestiondetrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestiondetrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\formularios\\frmgestiondecitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestiondecitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\modelos\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\modelos\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ED654A-F262-4529-BA34-BC70C3FA7D63}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C0BA9-16B7-4819-89FF-E5F7CF1F0F4D}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1625,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVerCitas.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmVerCitas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmVerCitas.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmVerCitas.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmVerCitas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:12:55.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDashboardAsistente.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmDashboardAsistente.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardAsistente.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmDashboardAsistente.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardAsistente.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAjwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:46:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDashboardAsistente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmDashboardAsistente.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmDashboardAsistente.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmDashboardAsistente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmDashboardAsistente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:46:51.053Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:22:04.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVerTrabajadores.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmVerTrabajadores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmVerTrabajadores.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmVerTrabajadores.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmVerTrabajadores.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:11:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Paciente.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Paciente.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Paciente.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Paciente.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAD4vzUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:42:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Rol.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Rol.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Rol.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Rol.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:41:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmGestiondeTrabajadores.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmGestiondeTrabajadores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestiondeTrabajadores.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmGestiondeTrabajadores.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmGestiondeTrabajadores.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:38:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGestiondeCitas.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmGestiondeCitas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestiondeCitas.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmGestiondeCitas.cs*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmGestiondeCitas.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAASwGAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:37:54.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmGestiondeCitas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmGestiondeCitas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestiondeCitas.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmGestiondeCitas.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Vistas\\Formularios\\frmGestiondeCitas.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:37:46.479Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVerCitas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmVerCitas.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmVerCitas.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Formularios\\frmVerCitas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmVerCitas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:37:44.098Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Cita.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Cita.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Modelos\\Entidades\\Cita.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Cita.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T19:46:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Program.cs",
+              "RelativeDocumentMoniker": "Vistas\\Program.cs",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Sistema de Clinica Dental\\Vistas\\Program.cs",
+              "RelativeToolTip": "Vistas\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:18:03.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
